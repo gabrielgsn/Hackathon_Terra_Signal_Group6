@@ -1,4 +1,11 @@
 # Hackathon_Terra_Signal
+
+Integrantes:
+- Gabriel Nasser
+- Vinicius Pomilio
+- Iara Vivian
+- Maria Eduarda Santos
+
 Materials for the Hackathon of a fake Telco Company named Terra Signal. Includes the dataset, and a starter notebook.
 
 Important Files:
