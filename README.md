@@ -4,7 +4,7 @@ Integrantes:
 - Gabriel Nasser
 - Vinicius Barreto Pomilio
 - Maria Eduarda Santos
-
+- Iara Vivian 
 
 Materials for the Hackathon of a fake Telco Company named Terra Signal. Includes the dataset, and a starter notebook.
 
