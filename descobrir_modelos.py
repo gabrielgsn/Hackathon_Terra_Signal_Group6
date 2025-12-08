@@ -2,8 +2,8 @@ from databricks.sdk import WorkspaceClient
 import os
 
 # Suas credenciais manuais (já que vai rodar no VSCode)
-SERVER_HOSTNAME = "dbc-0e3f07fe-e650.cloud.databricks.com"
-ACCESS_TOKEN = "dapid8c060e9eb73cce9fbf561016496d6e7"
+SERVER_HOSTNAME = "coloque seu hostname aqui"
+ACCESS_TOKEN = "coloque seu token aqui"
 
 print("🔍 Buscando modelos disponíveis...")
 

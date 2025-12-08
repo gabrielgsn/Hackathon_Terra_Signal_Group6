@@ -1,9 +1,9 @@
 from databricks import sql
 
 # --- SEUS DADOS ---
-SERVER_HOSTNAME = "dbc-0e3f07fe-e650.cloud.databricks.com"
-HTTP_PATH = "/sql/1.0/warehouses/4f94cefcc3be27d1"
-ACCESS_TOKEN = "dapid8c060e9eb73cce9fbf561016496d6e7"
+SERVER_HOSTNAME = "coloque seu hostname aqui"
+HTTP_PATH = "/sql/1.0/warehouses/coloque seu http path aqui"
+ACCESS_TOKEN = "coloque seu token aqui"
 
 connection = sql.connect(server_hostname=SERVER_HOSTNAME, http_path=HTTP_PATH, access_token=ACCESS_TOKEN)
 cursor = connection.cursor()
